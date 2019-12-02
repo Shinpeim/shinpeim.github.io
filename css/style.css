@@ -19,10 +19,13 @@ a:visited {
   margin-right: auto;
   margin-left : auto;
 }
+
 #header {
   padding-top: 10px;
   padding-bottom: 10px;
   padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
   background-color: #330000;
   color: #ffffdd;
   font-family: Oxygen sans-serif;
@@ -34,6 +37,12 @@ a:visited {
 #header .author img{
   height: 64px;
   width: 64px;
+  border-radius: 32px;
+}
+
+#main {
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .card {
