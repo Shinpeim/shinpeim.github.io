@@ -15,7 +15,7 @@ a:visited {
 }
 
 .container {
-  width: 800px;
+  max-width: 800px;
   margin-right: auto;
   margin-left : auto;
 }
