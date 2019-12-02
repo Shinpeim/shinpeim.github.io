@@ -87,10 +87,10 @@ ul li {
 }
 
 .audio-block {
-  height: 30px;
+  height: 80px;
 }
 audio {
   width: 100%;
-  height: 30px;
+  height: 80px;
   display: block;
 }
