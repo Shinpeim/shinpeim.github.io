@@ -84,6 +84,17 @@ a:visited {
   padding-right: 0.5em;
 }
 
+.card h5{
+  padding: 8px;
+}
+
+.card h5:before{
+  content: '-';
+  color: #ff9900;
+  padding-right: 0.5em;
+}
+
+
 ul {
   padding: 8px;
 }
